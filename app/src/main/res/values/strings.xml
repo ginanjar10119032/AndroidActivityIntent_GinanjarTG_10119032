@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GinanjarTG_10119032</string>
+    <string name="masukkan_nama_pengguna">Masukkan Nama Pengguna</string>
+    <string name="masukkan_password_baru">Masukkan Password Baru</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="silakan_memasukkan_password">Silakan Memasukkan Password</string>
+    <string name="silakan_memasukkan_username">Silakan Memasukkan Username</string>
+</resources>
